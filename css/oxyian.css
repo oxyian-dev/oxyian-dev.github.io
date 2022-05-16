@@ -17,7 +17,7 @@ html {
   -webkit-text-size-adjust: 100%;
   /* 3 */
   background: #fff;
-  color: #666;
+  color: #000033;
 }
 /*
  * Remove the margin in all browsers.
@@ -90,7 +90,7 @@ em {
  */
 ins {
   background: #ffd;
-  color: #666;
+  color: #000033;
   text-decoration: none;
 }
 /*
@@ -98,7 +98,7 @@ ins {
  */
 mark {
   background: #ffd;
-  color: #666;
+  color: #000033;
 }
 /*
  * Quote
@@ -364,7 +364,7 @@ blockquote footer {
   margin-top: 10px;
   font-size: 0.875rem;
   line-height: 1.5;
-  color: #666;
+  color: #000033;
 }
 blockquote footer::before {
   content: "— ";
@@ -376,7 +376,7 @@ blockquote footer::before {
  */
 pre {
   font: 0.875rem / 1.5 Consolas, monaco, monospace;
-  color: #666;
+  color: #000033;
   -moz-tab-size: 4;
   tab-size: 4;
   /* 1 */
@@ -451,7 +451,7 @@ a.oxyian-link-muted,
 a.oxyian-link-muted:hover,
 .oxyian-link-muted a:hover,
 .oxyian-link-toggle:hover .oxyian-link-muted {
-  color: #666;
+  color: #000033;
 }
 /* Text
  ========================================================================== */
@@ -1172,7 +1172,7 @@ button.oxyian-icon:not(:disabled) {
   text-decoration: none !important;
 }
 .oxyian-icon-link:hover {
-  color: #666;
+  color: #000033;
 }
 /* OnClick + Active */
 .oxyian-icon-link:active,
@@ -1201,13 +1201,13 @@ button.oxyian-icon:not(:disabled) {
 /* Hover */
 .oxyian-icon-button:hover {
   background-color: #ebebeb;
-  color: #666;
+  color: #000033;
 }
 /* OnClick + Active */
 .oxyian-icon-button:active,
 .oxyian-active > .oxyian-icon-button {
   background-color: #dfdfdf;
-  color: #666;
+  color: #000033;
 }
 /* ========================================================================
    Component: Form Range
@@ -1427,7 +1427,7 @@ button.oxyian-icon:not(:disabled) {
   /* 4 */
   padding: 0 10px;
   background: #fff;
-  color: #666;
+  color: #000033;
   border: 1px solid #e5e5e5;
   transition: 0.2s ease-in-out;
   transition-property: color, background-color, border;
@@ -1470,7 +1470,7 @@ button.oxyian-icon:not(:disabled) {
 .oxyian-textarea:focus {
   outline: none;
   background-color: #fff;
-  color: #666;
+  color: #000033;
   border-color: #002d9c;
 }
 /* Disabled */
@@ -1603,7 +1603,7 @@ select.oxyian-form-width-xsmall {
 }
 /* 3 */
 .oxyian-select:not([multiple]):not([size]) option {
-  color: #666;
+  color: #000033;
 }
 /*
  * Disabled
@@ -1852,7 +1852,7 @@ select.oxyian-form-width-xsmall {
  * Required for `a`.
  */
 .oxyian-form-icon:hover {
-  color: #666;
+  color: #000033;
 }
 /*
  * Make `input` element clickable through icon, e.g. if it's a `span`
@@ -2648,7 +2648,7 @@ select.oxyian-form-width-xsmall {
  */
 .oxyian-card-default {
   background-color: #fff;
-  color: #666;
+  color: #000033;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
 }
 .oxyian-card-default .oxyian-card-title {
@@ -2819,7 +2819,7 @@ select.oxyian-form-width-xsmall {
 }
 /* Hover */
 .oxyian-close:hover {
-  color: #666;
+  color: #000033;
 }
 /* ========================================================================
    Component: Spinner
@@ -2877,7 +2877,7 @@ select.oxyian-form-width-xsmall {
 }
 /* Hover */
 .oxyian-totop:hover {
-  color: #666;
+  color: #000033;
 }
 /* OnClick */
 .oxyian-totop:active {
@@ -2907,7 +2907,7 @@ select.oxyian-form-width-xsmall {
   margin-bottom: 20px;
   padding: 15px 29px 15px 15px;
   background: #f8f8f8;
-  color: #666;
+  color: #000033;
 }
 /* Add margin if adjacent element */
 * + .oxyian-alert {
@@ -3146,7 +3146,7 @@ select.oxyian-form-width-xsmall {
   color: #999;
 }
 .oxyian-article-meta a:hover {
-  color: #666;
+  color: #000033;
   text-decoration: none;
 }
 /* ========================================================================
@@ -3284,7 +3284,7 @@ select.oxyian-form-width-xsmall {
   width: 100%;
   /* 9 */
   border: none;
-  color: #666;
+  color: #000033;
 }
 .oxyian-search-input:focus {
   outline: none;
@@ -3424,7 +3424,7 @@ select.oxyian-form-width-xsmall {
 }
 /* Hover */
 .oxyian-search-toggle:hover {
-  color: #666;
+  color: #000033;
 }
 /* ========================================================================
    Component: Accordion
@@ -3462,7 +3462,7 @@ select.oxyian-form-width-xsmall {
 }
 /* Hover */
 .oxyian-accordion-title:hover {
-  color: #666;
+  color: #000033;
   text-decoration: none;
 }
 /* Content
@@ -3530,7 +3530,7 @@ select.oxyian-form-width-xsmall {
   /* 4 */
   padding: 25px;
   background: #fff;
-  color: #666;
+  color: #000033;
   box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
 }
 /* Show */
@@ -3552,7 +3552,7 @@ select.oxyian-form-width-xsmall {
 /* Hover + Active */
 .oxyian-dropdown-nav > li > a:hover,
 .oxyian-dropdown-nav > li.oxyian-active > a {
-  color: #666;
+  color: #000033;
 }
 /*
  * Subtitle
@@ -3580,7 +3580,7 @@ select.oxyian-form-width-xsmall {
 }
 .oxyian-dropdown-nav .oxyian-nav-sub a:hover,
 .oxyian-dropdown-nav .oxyian-nav-sub li.oxyian-active > a {
-  color: #666;
+  color: #000033;
 }
 /* Grid modifiers
  ========================================================================== */
@@ -4293,7 +4293,7 @@ select.oxyian-form-width-xsmall {
   position: relative;
   padding: 15px;
   background: #f8f8f8;
-  color: #666;
+  color: #000033;
   font-size: 1.25rem;
   line-height: 1.4;
   cursor: pointer;
@@ -4364,7 +4364,7 @@ select.oxyian-form-width-xsmall {
   max-width: 200px;
   padding: 3px 6px;
   /* 5 */
-  background: #666;
+  background: #000033;
   border-radius: 2px;
   color: #fff;
   font-size: 12px;
@@ -4926,7 +4926,7 @@ ul.oxyian-nav-sub {
 }
 /* Hover */
 .oxyian-nav-default > li > a:hover {
-  color: #666;
+  color: #000033;
 }
 /* Active */
 .oxyian-nav-default > li.oxyian-active > a {
@@ -4957,7 +4957,7 @@ ul.oxyian-nav-sub {
   color: #999;
 }
 .oxyian-nav-default .oxyian-nav-sub a:hover {
-  color: #666;
+  color: #000033;
 }
 .oxyian-nav-default .oxyian-nav-sub li.oxyian-active > a {
   color: #000033;
@@ -4974,7 +4974,7 @@ ul.oxyian-nav-sub {
 }
 /* Hover */
 .oxyian-nav-primary > li > a:hover {
-  color: #666;
+  color: #000033;
 }
 /* Active */
 .oxyian-nav-primary > li.oxyian-active > a {
@@ -5005,7 +5005,7 @@ ul.oxyian-nav-sub {
   color: #999;
 }
 .oxyian-nav-primary .oxyian-nav-sub a:hover {
-  color: #666;
+  color: #000033;
 }
 .oxyian-nav-primary .oxyian-nav-sub li.oxyian-active > a {
   color: #000033;
@@ -5183,7 +5183,7 @@ ul.oxyian-nav-sub {
  */
 .oxyian-navbar-nav > li:hover > a,
 .oxyian-navbar-nav > li > a[aria-expanded="true"] {
-  color: #666;
+  color: #000033;
 }
 /* OnClick */
 .oxyian-navbar-nav > li > a:active {
@@ -5197,7 +5197,7 @@ ul.oxyian-nav-sub {
  ========================================================================== */
 .oxyian-navbar-item {
   padding: 0 0;
-  color: #666;
+  color: #000033;
 }
 /*
  * Remove margin from the last-child
@@ -5212,7 +5212,7 @@ ul.oxyian-nav-sub {
 }
 .oxyian-navbar-toggle:hover,
 .oxyian-navbar-toggle[aria-expanded="true"] {
-  color: #666;
+  color: #000033;
   text-decoration: none;
 }
 /*
@@ -5262,7 +5262,7 @@ ul.oxyian-nav-sub {
   /* 4 */
   padding: 25px;
   background: #fff;
-  color: #666;
+  color: #000033;
   box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
 }
 /* Show */
@@ -5337,7 +5337,7 @@ ul.oxyian-nav-sub {
 }
 /* Hover */
 .oxyian-navbar-dropdown-nav > li > a:hover {
-  color: #666;
+  color: #000033;
 }
 /* Active */
 .oxyian-navbar-dropdown-nav > li.oxyian-active > a {
@@ -5368,7 +5368,7 @@ ul.oxyian-nav-sub {
   color: #999;
 }
 .oxyian-navbar-dropdown-nav .oxyian-nav-sub a:hover {
-  color: #666;
+  color: #000033;
 }
 .oxyian-navbar-dropdown-nav .oxyian-nav-sub li.oxyian-active > a {
   color: #000033;
@@ -5464,7 +5464,7 @@ ul.oxyian-nav-sub {
 }
 /* Hover */
 .oxyian-subnav > * > a:hover {
-  color: #666;
+  color: #000033;
   text-decoration: none;
 }
 /* Active */
@@ -5511,12 +5511,12 @@ ul.oxyian-nav-sub {
 /* Hover */
 .oxyian-subnav-pill > * > a:hover {
   background-color: #f8f8f8;
-  color: #666;
+  color: #000033;
 }
 /* OnClick */
 .oxyian-subnav-pill > * > a:active {
   background-color: #f8f8f8;
-  color: #666;
+  color: #000033;
 }
 /* Active */
 .oxyian-subnav-pill > .oxyian-active > a {
@@ -5553,14 +5553,14 @@ ul.oxyian-nav-sub {
 }
 /* Hover */
 .oxyian-breadcrumb > * > :hover {
-  color: #666;
+  color: #000033;
   text-decoration: none;
 }
 /* Disabled */
 /* Active */
 .oxyian-breadcrumb > :last-child > span,
 .oxyian-breadcrumb > :last-child > a:not([href]) {
-  color: #666;
+  color: #000033;
 }
 /*
  * Divider
@@ -5624,12 +5624,12 @@ ul.oxyian-nav-sub {
 }
 /* Hover */
 .oxyian-pagination > * > :hover {
-  color: #666;
+  color: #000033;
   text-decoration: none;
 }
 /* Active */
 .oxyian-pagination > .oxyian-active > * {
-  color: #666;
+  color: #000033;
 }
 /* Disabled */
 .oxyian-pagination > .oxyian-disabled > * {
@@ -5702,7 +5702,7 @@ ul.oxyian-nav-sub {
 }
 /* Hover */
 .oxyian-tab > * > a:hover {
-  color: #666;
+  color: #000033;
   text-decoration: none;
 }
 /* Active */
@@ -6018,11 +6018,11 @@ ul.oxyian-nav-sub {
 }
 /* Hover */
 .oxyian-iconnav > * > a:hover {
-  color: #666;
+  color: #000033;
 }
 /* Active */
 .oxyian-iconnav > .oxyian-active > a {
-  color: #666;
+  color: #000033;
 }
 /* Modifier: 'oxyian-iconnav-vertical'
  ========================================================================== */
@@ -7077,7 +7077,7 @@ ul.oxyian-nav-sub {
   color: #999;
 }
 .oxyian-text-meta a:hover {
-  color: #666;
+  color: #000033;
   text-decoration: none;
 }
 /* Size modifiers
@@ -10546,7 +10546,7 @@ iframe[data-oxyian-cover] {
 .oxyian-overlay-primary .oxyian-button-primary,
 .oxyian-offcanvas-bar .oxyian-button-primary {
   background-color: #fff;
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-button-primary:hover,
 .oxyian-section-primary:not(.oxyian-preserve-color) .oxyian-button-primary:hover,
@@ -10560,7 +10560,7 @@ iframe[data-oxyian-cover] {
 .oxyian-overlay-primary .oxyian-button-primary:hover,
 .oxyian-offcanvas-bar .oxyian-button-primary:hover {
   background-color: #f2f2f2;
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-button-primary:active,
 .oxyian-light .oxyian-button-primary.oxyian-active,
@@ -10585,7 +10585,7 @@ iframe[data-oxyian-cover] {
 .oxyian-offcanvas-bar .oxyian-button-primary:active,
 .oxyian-offcanvas-bar .oxyian-button-primary.oxyian-active {
   background-color: #e6e6e6;
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-button-secondary,
 .oxyian-section-primary:not(.oxyian-preserve-color) .oxyian-button-secondary,
@@ -10599,7 +10599,7 @@ iframe[data-oxyian-cover] {
 .oxyian-overlay-primary .oxyian-button-secondary,
 .oxyian-offcanvas-bar .oxyian-button-secondary {
   background-color: #fff;
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-button-secondary:hover,
 .oxyian-section-primary:not(.oxyian-preserve-color) .oxyian-button-secondary:hover,
@@ -10613,7 +10613,7 @@ iframe[data-oxyian-cover] {
 .oxyian-overlay-primary .oxyian-button-secondary:hover,
 .oxyian-offcanvas-bar .oxyian-button-secondary:hover {
   background-color: #f2f2f2;
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-button-secondary:active,
 .oxyian-light .oxyian-button-secondary.oxyian-active,
@@ -10638,7 +10638,7 @@ iframe[data-oxyian-cover] {
 .oxyian-offcanvas-bar .oxyian-button-secondary:active,
 .oxyian-offcanvas-bar .oxyian-button-secondary.oxyian-active {
   background-color: #e6e6e6;
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-button-text,
 .oxyian-section-primary:not(.oxyian-preserve-color) .oxyian-button-text,
@@ -10730,7 +10730,7 @@ iframe[data-oxyian-cover] {
 .oxyian-overlay-primary.oxyian-card-badge,
 .oxyian-offcanvas-bar.oxyian-card-badge {
   background-color: #fff;
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-close,
 .oxyian-section-primary:not(.oxyian-preserve-color) .oxyian-close,
@@ -10809,7 +10809,7 @@ iframe[data-oxyian-cover] {
 .oxyian-overlay-primary .oxyian-marker,
 .oxyian-offcanvas-bar .oxyian-marker {
   background: #f8f8f8;
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-marker:hover,
 .oxyian-section-primary:not(.oxyian-preserve-color) .oxyian-marker:hover,
@@ -10822,7 +10822,7 @@ iframe[data-oxyian-cover] {
 .oxyian-card-secondary > :not([class*='oxyian-card-media']) .oxyian-marker:hover,
 .oxyian-overlay-primary .oxyian-marker:hover,
 .oxyian-offcanvas-bar .oxyian-marker:hover {
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-badge,
 .oxyian-section-primary:not(.oxyian-preserve-color) .oxyian-badge,
@@ -10836,7 +10836,7 @@ iframe[data-oxyian-cover] {
 .oxyian-overlay-primary .oxyian-badge,
 .oxyian-offcanvas-bar .oxyian-badge {
   background-color: #fff;
-  color: #666 !important;
+  color: #000033 !important;
 }
 .oxyian-light .oxyian-label,
 .oxyian-section-primary:not(.oxyian-preserve-color) .oxyian-label,
@@ -10850,7 +10850,7 @@ iframe[data-oxyian-cover] {
 .oxyian-overlay-primary .oxyian-label,
 .oxyian-offcanvas-bar .oxyian-label {
   background-color: #fff;
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-article-meta,
 .oxyian-section-primary:not(.oxyian-preserve-color) .oxyian-article-meta,
@@ -11514,7 +11514,7 @@ iframe[data-oxyian-cover] {
 .oxyian-overlay-primary .oxyian-subnav-pill > .oxyian-active > a,
 .oxyian-offcanvas-bar .oxyian-subnav-pill > .oxyian-active > a {
   background-color: #fff;
-  color: #666;
+  color: #000033;
 }
 .oxyian-light .oxyian-subnav > .oxyian-disabled > a,
 .oxyian-section-primary:not(.oxyian-preserve-color) .oxyian-subnav > .oxyian-disabled > a,
