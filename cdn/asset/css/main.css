@@ -45,6 +45,7 @@ a {
 
 .oxyian-border {
     border: solid 1px #e5e5e5 !important;
+    z-index: -1;
 }
 
 .oxyian-border-top-remove {
