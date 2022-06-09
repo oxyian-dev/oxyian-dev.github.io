@@ -43,6 +43,14 @@ a {
     text-transform: capitalize !important;
 }
 
+.oxyian-border {
+    border: solid 1px #e5e5e5 !important;
+}
+
+.oxyian-border-top-remove {
+    border-top: none !important;
+}
+
 .oxyian-link-g {
     position: relative;
     text-transform: none !important;
