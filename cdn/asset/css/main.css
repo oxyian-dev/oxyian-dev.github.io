@@ -120,20 +120,20 @@ a {
     white-space: nowrap;
 }
 
-#oxyian-searchbox:focus::-webkit-input-placeholder {
+#field_domains-input:focus::-webkit-input-placeholder {
     transform: translateY(-200%);
     -webkit-transform: translateY(-200%);
     font-size: 75%;
     opacity: 1;
 }
 
-#oxyian-searchbox.imitatefocus::-webkit-input-placeholder {
+#field_domains-input.imitatefocus::-webkit-input-placeholder {
     transform: translateY(200%);
     -webkit-transform: translateY(200%);
     opacity: 1
 }
 
-#oxyian-searchbox {
+#field_domains-input {
     color: var(--color-primary);
     padding-left: 10px;
     padding-right: 10px;

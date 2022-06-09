@@ -8,7 +8,7 @@ const texts = [
     "mobileshop.online",
     "xyzjs.io",
   ],
-  input = document.querySelector("#oxyian-searchbox"),
+  input = document.querySelector("#field_domains-input"),
   animationWorker = function (t, i) {
     (this.input = t),
       (this.defaultPlaceholder = this.input.getAttribute("placeholder")),
