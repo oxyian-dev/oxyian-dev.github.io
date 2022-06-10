@@ -192,6 +192,7 @@ a {
 .oxyian-brand-text-gradient {
     position: relative;
     background: var(--color-brand);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
