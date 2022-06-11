@@ -229,6 +229,7 @@ a {
     background: var(--color-background) !important;
 }
 
+/* Custom */
 ul li.valid {
     color: darkgreen;
 }
@@ -237,9 +238,17 @@ ul li.invalid {
     color: crimson;
 }
 
+.invisible {
+    display: none;
+}
+
+/* End Custom */
+
+
 s {
     color: crimson !important;
 }
+
 
 .oxyian-label-default {
     background-color: transparent !important;
